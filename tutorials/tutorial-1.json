@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "title": "Binary Number Practice",
+    "steps": [
+        {
+            "title": "Binary Basics Practice",
+            "content": "<h2 class='text-2xl font-bold mb-4'>Binary Number Practice</h2><p class='mb-4'>Practice converting decimal numbers to binary. Enter your answer in binary (using only 0s and 1s) and click confirm to check your work.</p><div id='binary-practice' class='mb-4'></div>",
+            "simulation": {
+                "id": "binary-practice",
+                "script": "binary-practice-simulation.js"
+            }
+            
+        }
+    ]
+}

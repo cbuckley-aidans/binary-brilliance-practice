@@ -1,0 +1,15 @@
+{
+    "id": 2,
+    "title": "Binary to Text Translation",
+    "nextTutorialTitle": "Binary Data Types",
+    "steps": [
+        {
+            "title": "ASCII Translation Practice",
+            "content": "<h2 class='text-2xl font-bold mb-4'>Binary to Text Translation</h2><p class='mb-4'>Practice converting binary sequences into text. Each sequence represents a 3-4 letter word using ASCII encoding. Reference your <a class=\"font-bold underlined text-blue-500\"href=\"https://cbuckley-aidans.github.io/binary-brilliance/text.html\" target=\"_blank\">ASCII chart</a> to help with the conversions.</p><div id='binary-text-practice' class='mb-4'></div>",
+            "simulation": {
+                "id": "binary-text-practice",
+                "script": "binary-text-translation.js"
+            }
+        }
+    ]
+}
