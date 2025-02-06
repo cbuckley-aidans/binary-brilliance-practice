@@ -1,0 +1,15 @@
+{
+    "id": 3,
+    "title": "Binary Audio Representation",
+    "nextTutorialTitle": "Binary Image Data",
+    "steps": [
+        {
+            "title": "Audio Sampling Practice",
+            "content": "<h2 class='text-2xl font-bold mb-4'>Understanding Digital Audio</h2><p class='mb-4'>Practice identifying appropriate bit depths and sampling rates for different audio scenarios.</p><div id='audio-practice' class='mb-4'></div>",
+            "simulation": {
+                "id": "audio-practice",
+                "script": "binary-audio-practice.js"
+            }
+        }
+    ]
+}
